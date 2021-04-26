@@ -30,9 +30,6 @@
 </div> </details>
 
 </br>
-
-## 
-
 <details> <summary>💪건강</summary> <div markdown="1">  
 
 - [ ] 스트레칭 (옆구리, 골반)
@@ -44,8 +41,6 @@
 
 </br>
 
-## 
-
 <details> <summary>💰재테크</summary> <div markdown="1">  
 
 - [ ] 경제신문 1면 읽기
@@ -55,15 +50,8 @@
 
 </br>
 
-
-
 <details> <summary>🎸기타</summary> <div markdown="1">  
 
 - [ ] 독서
 
 </div> </details>
-
-</br>
-
-<hr>
-</br>
