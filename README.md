@@ -52,9 +52,9 @@
 
 
 
-## 📆월간목표
+## 📆[월간목표](https://github.com/hataerin/DailyHabit/blob/master/DailyHabit.md)
 
-### 💜[2021년 5월](https://github.com/hataerin/DailyHabit/blob/master/DailyHabit.md)
+### 💜[2021년 5월](https://github.com/hataerin/DailyHabit/blob/master/DailyHabit.md#202105)
 - [ ] [💪] 7시 기상
 - [ ]  [👩‍💻] 알고리즘 2문제 풀기
 
