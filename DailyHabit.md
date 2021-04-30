@@ -27,14 +27,25 @@
 
 ###### 20210430
 
-- [ ] [SSAFY] BE 6강 + 과제 1~5
-- [ ] [SSAFY] Web + DB 1~5
+- [x] [Spring] 책 1
+- [x] [SSAFY] BE 6강 
+- [ ] [BackEnd] 라이브강의 1, 2
+- [ ] [BackEnd] Homework 1, 2
 
 ###### 20210501
 
 - [ ] [Miracle] 7시 기상후 바로 씻기
-- [ ] [Algo] 하루 2문제 풀기
+- [ ] [BackEnd] 라이브강의 3, 4, 5
+- [ ] [BackEnd] Homework 3, 4, 5
+- [ ] [Web+DB] 1, 2, 3, 4, 9
+- [ ] [Algorithm] 2강 + N과M 1~6
 
-- [ ] [SSAFY] Spring 1, 2 강 + 과제
+###### 20210502
+
+- [ ] [Miracle] 7시 기상후 바로 씻기
+- [ ] [Spring] 라이브강의 1, 2
+- [ ] [Spring] Homework 1, 2
+- [ ] [Algorithm] 3강 
+- [ ] [Algorithm] 스터디 - 스택, 큐
 
 
